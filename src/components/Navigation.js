@@ -6,6 +6,7 @@ class Navigation extends Component {
         return (
             <div>
                 <p>HI I am Nitesh </p>
+                <h1>Hi i m Kavita</h1>
             </div>
         );
     }
